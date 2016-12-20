@@ -1,0 +1,8 @@
+c:\users\sabina\documents\visual studio 2015\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe.config
+c:\users\sabina\documents\visual studio 2015\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+c:\users\sabina\documents\visual studio 2015\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb
+c:\users\sabina\documents\visual studio 2015\Projects\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.exe
+c:\users\sabina\documents\visual studio 2015\Projects\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.pdb
+c:\users\sabina\documents\visual studio 2015\Projects\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.csprojResolveAssemblyReference.cache
+c:\users\sabina\documents\visual studio 2015\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\Newtonsoft.Json.dll
+c:\users\sabina\documents\visual studio 2015\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\Newtonsoft.Json.xml
